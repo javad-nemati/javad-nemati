@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javad-nemati
-- 👀 I’m interested in Linux system Administrator
+- 👀 I'm linux system Administrator
 - 🌱 I’m currently learning Ansible,docker,kubernetes
 - 💞️ I’m looking to collaborate on DevOps 
 - 📫 How to reach me javad.nemati65@gmail.com
