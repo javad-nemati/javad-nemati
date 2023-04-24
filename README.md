@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ansible,docker,kubernetes
 - 💞️ I’m looking to collaborate on DevOps 
 - 📫 How to reach me javad.nemati65@gmail.com
-- also I’m currently learning Python ...
+- # also I’m currently learning Python ...
 
 
 <!---
