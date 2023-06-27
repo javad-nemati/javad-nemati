@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @javad-nemati
 - 👀 I'm linux system Administrator
-- 💞️ I’m looking to collaborate on DevOps 
 - 📫 How to reach me javad.nemati65@gmail.com
 
 
